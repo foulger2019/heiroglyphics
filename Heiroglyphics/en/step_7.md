@@ -11,7 +11,7 @@ Use `AssociationMap[Reverse, egypt]` to reverse the Keys and Values in your `Ass
 ---/hint---
 ---hint---
 
-Call your new, reversed association `egypt`.
+Call your new, reversed association `egyptReverse`.
 
 ---/hint---
 
