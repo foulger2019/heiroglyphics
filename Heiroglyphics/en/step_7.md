@@ -11,6 +11,12 @@ Use `AssociationMap[Reverse, egypt]` to reverse the Keys and Values in your `Ass
 ---/hint---
 ---hint---
 
+Call your new, reversed association `egypt`.
+
+---/hint---
+
+---hint---
+
 Once you have reversed your `Association`, your buttons will automatically use the image of the hieroglyph as the button image.
 
 ---/hint---
